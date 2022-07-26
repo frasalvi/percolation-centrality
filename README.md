@@ -3,4 +3,4 @@ In this project, we critically investigate the paper [Percolation Centrality: Qu
 
 Our main findings and experiments are summarized in our [report](./report.pdf) and [presentation](./Percolation_centrality.pptx).
 
-This work is part of an assignment for the course "Networks Out of Control" (**Models and methods for random networks**) at EPFL, and is the joint effort of [Francesco Salvi](https://github.com/frasalvi) and [Neta Singer](https://www.linkedin.com/in/neta-singer-6078401a6/).
+This work is part of an assignment for the course "Networks Out of Control" (*Models and methods for random networks*) at EPFL, and is the joint effort of [Francesco Salvi](https://github.com/frasalvi) and [Neta Singer](https://www.linkedin.com/in/neta-singer-6078401a6/).
